@@ -1,3 +1,6 @@
+#loading library dplyr 
+library(dplyr)
+
 #unzip zip file downloaded for Getting and Cleaning Data project
 unzip(zipfile = "/Users/kumarshaket/Downloads/getdata_projectfiles_UCI.zip", exdir="/Users/kumarshaket/Desktop/Coursera/datafiles")
 
